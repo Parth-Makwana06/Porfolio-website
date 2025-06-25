@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: 'Portfolio Website',
             description: 'A responsive portfolio website to showcase projects and skills (this website).',
             tags: ['HTML5', 'CSS3', 'JavaScript'],
-            codeLink: 'https://github.com/Parth-Makwana06/Portfolio-Website.git',
+            codeLink: 'https://github.com/Parth-Makwana06/Porfolio-website.git',
             image: 'https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=1964&q=80'
         }
     ];
